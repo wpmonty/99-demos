@@ -1,0 +1,1 @@
+<div class="alert alert-success" role="alert"><?php self::_e( $message ) ?></div>
